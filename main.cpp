@@ -2,11 +2,6 @@
 
 using namespace std;
 
-void NotAtAll()
-{
-
-}
-
 void Really()
 {
     
