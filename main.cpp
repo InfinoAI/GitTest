@@ -2,10 +2,13 @@
 
 using namespace std;
 
+void NotAtAll()
+{
+
+}
+
 int main()
 {
-    cout << "git push merged?" << endl;
-
 
     return 0;
 }
